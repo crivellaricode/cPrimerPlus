@@ -1,5 +1,11 @@
+/ProgrammingInC-4E_code
+
+*.swp
+
 /ch*/*
 !/ch*/*.c
+!/ch*/exercises/
+
 
 # Prerequisites C
 *.d
