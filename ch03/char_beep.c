@@ -5,7 +5,6 @@ int main(void)
     char beep = 7;
     char beep2 = '\a';
     char beep3 = '\007';
-    char beep4 = '\7';
 
     printf("beep %c\n", beep);
     getchar();
@@ -16,8 +15,7 @@ int main(void)
     printf("beep3 %c\n", beep3);
     getchar();
 
-    printf("beep4 %c\n", beep4);
-    getchar();
+    printf("Gramps sez, \"a \\ is a backslash\"\n");
 
     return 0;
 }
