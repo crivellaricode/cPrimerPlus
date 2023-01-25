@@ -9,5 +9,5 @@ int main ()
     printf("%d\n", cost);
     printf("%.10f\n", doublePi);
     printf("%.10f\n", floatPi);
-    return(0);
+    return 0;
 }
