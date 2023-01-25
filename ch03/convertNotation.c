@@ -1,9 +1,12 @@
 #include <stdio.h>
+#include <math.h>
+
 int main(void)
 {
     int choice;
     double number;
     _Bool menu = 0;
+    double power;
 
     while(menu == 0)
     {
