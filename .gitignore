@@ -2,6 +2,8 @@
 /ExercisesAndAnswers
 
 *.swp
+/tools/*
+!/tools/*.c
 
 /ch*/*
 !/ch*/*.c
